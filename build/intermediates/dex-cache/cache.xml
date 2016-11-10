@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manish\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.4.0_0c5d4bf32c69d2b562af74162d08f24ea1539be4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.birbit\android-priority-jobqueue\2.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="480a4495633c96be9cb9a1b7dd8bac0e7f32cb20">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.birbit-android-priority-jobqueue-2.0.0-beta1_4c8678a864d40650815cc6dd506e8a28f39dd568\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_ae00f931ae1d697beb57554ee856c3a794d01340\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_e65a1e3efb6553e23cfe549167c931d4cda5ac92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_555d04416dc7885c39ce767f73bb675c61b7c88f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_edada0e8ab94367b1e945817b4e4d5a6bb1d7b85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_59f1e69d7c9229bdac3b19ab57143d714fdfbcaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manish\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3_4b5ea25dbca9c88ef1f7b9318badb2ecd1360b82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bcb4a50f5e2c67b3e84441b1b2a239856776c9b8">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.10.0_8d3f860b07b04e516246bf67debc0fdbcc56eb01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manish\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_85dd0ed07326c330fb069eed9e8ca24fb7dc49d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manish\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_b7666f4dad4de6aa192d53332783a5175393bf28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\libs\httpmime-4.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="92b7ae91cb55150192341962dd7254ef898768ca">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.2.2_266fe7bc238d1f750e40c6d636e20dc9a5c11d7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manish\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_e0607c0882029243e269a3847d210f721cd07c95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manish\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.3.0_3a96004c171afcaeaffcf40885a1e790d18bf910\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manish\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.0\da7ba0ee1d30edd955da276cdf01d3d7cb24aedc\dagger-2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="da7ba0ee1d30edd955da276cdf01d3d7cb24aedc">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.0_3665d285eafa9dbf05b202ebfe5be479fe8c7745\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manish\.gradle\caches\modules-2\files-2.1\com.jakewharton.byteunits\byteunits\0.9.1\202a0c874feafe7ece9be0a53e9640c9a26f2197\byteunits-0.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="202a0c874feafe7ece9be0a53e9640c9a26f2197">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\byteunits-0.9.1_9f2c976bf66efa1ffe6eebe95193ba885910f48f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_94a3148ce158cf43ea0bd18963b6ed18b0f962ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2bf893856577f5038c0b8007a43fda3b3c5beb23">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.4.0_7c61589fad10fa3ee89cc66d5ddcabdd4c4a8309\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="99c0128e5e416cf65c7dc8465c1cb1d5fd7c4f92">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-crashlytics-2.6.1_67ce472c7f285836834ba6abbb2630ceab5dc4a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manish\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_9e6d40da32189e1edbe9c8e27a42ef0076f52950\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.12\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3575e73a22dce98f0bdbcdb475ef55a84606a9a6">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.12_a4a79693eca9e7eb4b13fb2463c84a0f79f5c74c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manish\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.4_4753f9c3ff08e33ed29166aaa1e1584785ad101e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_2507caf4aba0458892d89c96447b7bbbd5702c8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_d6dadc6a756d5db7db9c2a3a60e9c0c17fb016f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_48a7401cb26f7bc9be666eb200ebc4fa2ebafdc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_ef8d8eaf39fbb3a3e218b729edaaeb35c3b626dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_2b177601cfed390d200c9c39843742c241c542d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manish\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_37cbb6751344b0035e782103092c1ded4af5d8a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manish\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.3.0_6fde33b6ba14502c06ec48fc81256e723efe8645\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e0e0775a3038cd50057d76d1b07ad54115e02d8b">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_18e2643062ae67df16453056ad34168d6e07003f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manish\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_c35c5d1596a3c1051222fa7cee4d72e8849f8f6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_de5cb6cb582e2b54220b98b40e681e8d3c158bd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d2ce88db16786c9c2a839f1839af47a9a96dad17">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-beta-1.2.1_1be0000e747288cc71f40ee0de349f2b5c147077\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\libs\prettytime-3.2.7.Final.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4b216ebcf284752a40e11c39c2ea62bc45528c33">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\2\prettytime-3.2.7.Final_0f4c5462c8c9d0f181ba2221efa93f3147a749f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_24986c445380ee76069ee15f6ff76c3d0702624c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.android.support\support-v13\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="be09545b7e6ff322c7286d2e80bed3b75b76c529">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_e84167ae792547acdf38bd989749478823cecb39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.wang.avi\library\1.0.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5035aaf60d244038bb143ffad4fbb7cba92ecdc7">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.wang.avi-library-1.0.5_f2ffb74ee6ecef05d95f331d4ffd35b7ba4f9f69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\net.zetetic\android-database-sqlcipher\3.3.1-1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="af6892becddd8ed6ec93f7266979466e3133a529">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\net.zetetic-android-database-sqlcipher-3.3.1-1_6efe081f9edbac6987e725f2d30b5bffc55990ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.10\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2f9a9b21b70965cde70f6eb8f2ee68794fb482e6">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-crashlytics-core-2.3.10_03c92d1f8c2cf98ca5fdec2e89cac8b28e17e838\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_c1e8a575152ffbfddc42cddd20b0f1de17f763a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Manish\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_4b6bdae0b548e382761780a89fd8174583164621\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4c4a84edd097e295cc986f8740836242dd5a89a1">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_22e03de424da290fbf8859dc5660b3e0bdb45b6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.3.8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0c46a5a897439810b6c437ce188bd07d9d8dffb0">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.crashlytics.sdk.android-answers-1.3.8_d76ddc568224e79d7f1e420cfd1191809f231261\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projects\CGTSocialNetwork\main\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\Projects\CGTSocialNetwork\main\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_9490495d315db9da47b0adeaaa2f12121036a83e\classes.dex" />
+    </item>
+
+</items>

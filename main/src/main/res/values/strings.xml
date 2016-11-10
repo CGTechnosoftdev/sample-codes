@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CGT Social Network</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="network_error">Please check your network connection, try again later.</string>
+    <string name="sorry">Sorry, something went wrong. please try again later.</string>
+    <!-- <string name="fb_sorry">Sorry, we couldn\&apos;t recognized you, Please loggedIn with your facebook account.</string> -->
+    <string name="nosearch">Sorry, we don\&apos;t have results for your search, Try a new search.</string>
+    <string name="msg_unable_to_process_request">Request can not be processed this time, please try later.</string>
+    <string name="no_network_connection_toast">No internet connectivity</string>
+
+    <string name="terms_of_service">Terms of Service</string>
+
+    <string name="app_tag_line">Get into the new world to share your stress, worries, struggles and success stories</string>
+    <string name="ProfilesignIn">Sign in with Facebook to</string>
+    <string name="profileRule1">Change your username</string>
+    <string name="profileRule2">Unlock these 10 avatars below!</string>
+    <string name="font_myriad_pro_reg">MyriadPro-Regular_1.otf</string>
+    <string name="font_myriad_pro_semi">MyriadPro-Semibold_1.otf</string>
+    <string name="font_open_sens_reg">OpenSans-Regular.ttf</string>
+    <string name="font_open_sens_bold">OpenSans-Bold.ttf</string>
+    <string name="font_open_sens_exta_bold">OpenSans-ExtraBold.ttf</string>
+    <string name="font_open_sens_exta_sami_bold">OpenSans-Semibold.ttf</string>
+    <string name="acc_activation_required">Account Activation Required</string>
+    <string name="acc_activation_msg">Active your account and do more!\nPersonalize your information, add other members to your circle and even chat with them</string>
+    <string name="send_activation_email">Send Activation Email</string>
+    <string name="turn_on_location">PLEASE TURN ON LOCATION WITH HIGH ACCURACY</string>
+    <string name="turn_on_location_google">PLEASE TURN ON LOCATION IN GOOGLE SETTING</string>
+    <string name="msg_please_wait">Please wait...</string>
+    <string name="msg_login">Authenticating...</string>
+    <string name="msg_signup">Creating account...</string>
+    <string name="msg_logout">Logging out...</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="msg_no_post">No Post</string>
+    <string name="msg_no_feed">No Feed</string>
+    <string name="msg_no_comment">No Comment</string>
+    <!--
+Used to replace a range of characters in text that is too wide
+for the space allocated to it (three dots)\u2026.
+    -->
+    <string name="ellipsis">…see more</string>
+    <string name="google_place_api_key">a</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+    <string name="pull_to_refresh_release_label">Release to refresh…</string>
+    <string name="pull_to_refresh_refreshing_label">Loading…</string>
+
+    <!-- Just use standard Pull Down String when pulling up. These can be set for languages which require it -->
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+
+    <string-array name="array_links">
+        <item>https://www.google.com/search?q=local+universities</item>
+        <item>https://www.google.com/search?q=mathamatics+help</item>
+        <item>https://www.google.com/search?q=extra+credit+courses</item>
+        <item>https://www.google.com/search?q=creative+writing</item>
+        <item>https://www.google.com/search?q=best+classes+for+credits</item>
+    </string-array>
+
+
+    <string-array name="nav_user">
+        <item>My Account</item>
+        <item>Settings</item>
+        <item>Activity History</item>
+        <item>Invite Friends</item>
+        <item>About App</item>
+        <item>Privacy Policy</item>
+        <item>Logout</item>
+    </string-array>
+
+    <string-array name="nav_settings">
+        <item>Account</item>
+        <item>Default Category</item>
+        <item>Circles</item>
+        <item>Anonymous Posting</item>
+        <item>Private Account</item>
+        <item>Notifications</item>
+        <item>Change Password</item>
+
+    </string-array>
+
+    <!-- Transection name android 5.0 up support-->
+    <string name="userImage">user_image</string>
+    <string name="postDetail">post_detail</string>
+    <string name="catTitle">cat_title</string>
+    <string name="userName">user_name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Add Post Screen-->
+    <string name="add_post">Add Post</string>
+    <string name="post_msg">What\'s on your mind?</string>
+    <string name="attach">Attach</string>
+    <string name="attach_image">Attach Image</string>
+    <string name="attach_audio">Audio</string>
+    <string name="drawing">Drawing</string>
+    <string name="take_a_photo">Camera</string>
+    <string name="from_gallery">Gallery</string>
+    <string name="post">Post</string>
+    <string name="post_detail">Post Detail</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="zero">Zero</string>
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+
+    <string name="write_comment">Write Comment</string>
+
+    <string name="skip"><u>Skip</u></string>
+    <string name="login_underline"><u>Done</u></string>
+
+    <!--Login-->
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="forgot_psw">Forgot password?</string>
+    <string name="user_name">User Name</string>
+    <string name="name">Name</string>
+    <string name="full_name">Full name</string>
+    <string name="email_address">Email address</string>
+    <string name="psw">Password</string>
+    <string name="confirm_psw">Confirm password</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="login_here">Login Here</string>
+    <string name="enter_email_for_psw">Enter your email below to receive your password reset instructions</string>
+    <string name="send">Send</string>
+    <string name="status">Status</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="update">Update</string>
+    <string name="psw_reset_link_sent">Password reset link sent to above mentioned email id.</string>
+    <string name="facebook_error_msg">If permission is granted then please set any email as a primary email in facebook general settings, then only facebook will return email to third party application. Sorry for the inconvenience.</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="edit">Edit</string>
+
+    <string name="public_post">Public Post</string>
+    <string name="private_post">Private Post</string>
+
+    <string name="delete_post">Delete Post</string>
+    <string name="edit_post">Edit Post</string>
+
+    <string name="my_account">My Account</string>
+    <string name="profile">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="hug_history">My Hugs History</string>
+    <string name="invite_frnds">Invite Friends</string>
+    <string name="about">About App</string>
+    <string name="legal">Legal</string>
+    <string name="block_list">Block List</string>
+    <string name="feedback">Feedback</string>
+    <string name="logout">Logout</string>
+
+    <string name="search_by_alphabets">Alphabets</string>
+    <string name="search_by_location">Location</string>
+    <string name="Ascending">Ascending</string>
+    <string name="Descending">Descending</string>
+
+    <string name="current_location">Current Location</string>
+
+    <string name="filter_options">Filter Options</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="done">Done</string>
+
+    <string name="search_hint">Search by category</string>
+    <string name="primarycolortext">684B82</string>
+    <string name="empty"></string>
+
+    <string name="tab_feeds">Feeds</string>
+    <string name="tab_post">Post</string>
+    <string name="tab_circle">Circle</string>
+    <string name="tab_notifications">Notifications</string>
+
+    <!-- Feed Screen-->
+    <string name="cannot_refresh_feed">Could not refresh feeds</string>
+    <string name="privat_post_data">Sending a personal post is the best way to keep your most private thoughts, feelings and moments safe and secure. Personal posts can only be seen by you at any time in your profile.</string>
+    <string name="privat_post_as_anoy_data">When you post as ‘Anonymous’ your account and user name will not be displayed. You will be able to see any anonymous post you make in your profile. Other users will not see these posts when they view your profile.</string>
+    <string name="privat_acc_data">Private account allows you to hide your personal information from other members. Any post you create will be posted as anonymous but the content will be visible.</string>
+
+    <string name="category">CATEGORY</string>
+    <string name="location">LOCATION</string>
+
+    <string name="msg_user_blocked">User successfully blocked</string>
+    <string name="msg_user_unblocked">User successfully unblocked</string>
+    <string name="msg_user_reported">User successfully reported</string>
+
+    <string name="msg_profile_updated">Profile updated</string>
+    <string name="msg_token_expired">Token expired, please re-login</string>
+
+    <string name="ellipsize_text">…see more</string>
+
+
+    <string name="recording_started">Recording started</string>
+    <string name="recording_done">Audio recorded successfully</string>
+
+</resources>

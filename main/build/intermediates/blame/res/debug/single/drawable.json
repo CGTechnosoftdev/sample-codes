@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\hug_selector.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\hug_selector.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_orange_color_round.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\bg_orange_color_round.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\prg1.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\CGTSocialNetwork\\general\\unspecified\\res\\drawable\\prg1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_unblock_bg.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\btn_unblock_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_selector.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\comment_selector.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\brush.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\brush.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\divider_child.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\divider_child.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple_feed.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\ripple_feed.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\eraser.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\eraser.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple_unblock_btn.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\ripple_unblock_btn.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\text_box_with_border.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\text_box_with_border.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_white.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\circle_white.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple_profile_btn.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\ripple_profile_btn.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\small.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\small.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_profile_bg.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\btn_profile_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\paint.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\paint.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_button_selector.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\orange_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\cursordrable.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\cursordrable.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_blue_color_round.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\bg_blue_color_round.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\trasperent_black.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\CGTSocialNetwork\\general\\unspecified\\res\\drawable\\trasperent_black.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_drawable.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\seekbar_drawable.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\large.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\large.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\item_selector_navigation_drawer.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\item_selector_navigation_drawer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_background.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\CGTSocialNetwork\\general\\unspecified\\res\\drawable\\notification_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\new_pic.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\new_pic.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\medium.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\medium.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_purple_color_round.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\bg_purple_color_round.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\check_box_loc_selector.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\check_box_loc_selector.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dark_blue_color_round.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\bg_dark_blue_color_round.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_dark_orange_color_round.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\bg_dark_orange_color_round.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white_color_round.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\bg_white_color_round.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\trasperent_black_dark.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\CGTSocialNetwork\\general\\unspecified\\res\\drawable\\trasperent_black_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_trans_white_color_round.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\bg_trans_white_color_round.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_trans_gray_color_round.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\bg_trans_gray_color_round.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\trasperent_white.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\CGTSocialNetwork\\general\\unspecified\\res\\drawable\\trasperent_white.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\text_selector_gray.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\text_selector_gray.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_button_selector.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\blue_button_selector.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_bg.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable\\spinner_bg.xml"
+    }
+]

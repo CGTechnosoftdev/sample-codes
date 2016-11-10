@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\or.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\or.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_favicon_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_favicon_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\profile.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\profile.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dropdown.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\dropdown.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_overflow.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_overflow.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\location_pin.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\location_pin.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_small_blue.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_post.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\tab_post.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\close.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\close.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back_arrow.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\back_arrow.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_topnub.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_send_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_send_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_camera.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_logout.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_menu_logout.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_remove_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_remove_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\time_clock.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\time_clock.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_small_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\search.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_save_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_save_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\attachment.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\attachment.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_topnub.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_gallery.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_gallery.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_large_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_send_icon_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_button_send_icon_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\edit_profile.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\edit_profile.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\email_icon.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\email_icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\app_icon.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_refresh.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_clear_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_clear_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_send_icon_blue.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_button_send_icon_blue.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\comment_deselected.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\comment_deselected.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_done_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_done_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\email_address.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\email_address.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_notification.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\tab_notification.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_xout.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\powered_by_google_light.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_posting.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_posting.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_profile_picture_blank_square.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\tab_feed.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\tab_feed.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_button_send_round_shadow.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\password.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\password.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_icon_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_button_icon_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_profile_picture_blank_portrait.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_delete_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_delete_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_legal.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_menu_legal.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\messenger_bubble_large_blue.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_xout.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_done_black.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_done_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_like_icon_selected.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_background.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\places_ic_clear.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_black_background.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\powered_by_google_dark.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_send.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_send.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pass_icon.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\pass_icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_add_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_add_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_feedback.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_menu_feedback.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\edit_photo.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\edit_photo.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\confirm_password.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\confirm_password.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\remove.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\remove.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\send_msg.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\send_msg.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\net.zetetic\\android-database-sqlcipher\\3.3.1-1\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_upward.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_arrow_upward.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_delete.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_button_icon_blue.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_button_icon_blue.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\comment_selected.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\comment_selected.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_close.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_close.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\unchecked_loc.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\unchecked_loc.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\places_ic_search.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-mdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\username.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\username.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\combo_btn.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\combo_btn.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\down_arrow.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\down_arrow.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\checked_loc.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\checked_loc.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.0\\res\\drawable-mdpi\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrow_normal.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\arrow_normal.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_profile.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-mdpi\\ic_menu_profile.png"
+    }
+]

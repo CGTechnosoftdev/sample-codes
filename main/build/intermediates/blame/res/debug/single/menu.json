@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\menu\\menu_add_post.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\menu\\menu_add_post.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\menu\\menu_done.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\menu\\menu_done.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\menu\\menu_home_drawer.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\menu\\menu_home_drawer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\menu\\menu_edit_profile.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\menu\\menu_edit_profile.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\menu\\menu_attachment.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\menu\\menu_attachment.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\menu\\menu_post.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\menu\\menu_post.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\menu\\menu_feed_options.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\menu\\menu_feed_options.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\menu\\menu_feeds.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\menu\\menu_feeds.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\menu\\menu_profile_feeds.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\menu\\menu_profile_feeds.xml"
+    }
+]

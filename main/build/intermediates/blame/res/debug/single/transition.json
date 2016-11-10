@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\transition\\explode.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\transition\\explode.xml"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\transition\\change_image_transform.xml",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\transition\\change_image_transform.xml"
+    }
+]

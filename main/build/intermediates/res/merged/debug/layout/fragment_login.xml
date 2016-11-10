@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="34dp"
+    android:paddingRight="34dp">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/bg_white_color_round"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/txtEmail"
+            style="@style/EditText"
+            android:drawableLeft="@drawable/email_address"
+            android:drawablePadding="17dp"
+            android:hint="@string/email_address"
+            android:imeOptions="actionNext"
+            android:inputType="textEmailAddress"
+            android:paddingLeft="12dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/gray_line" />
+
+        <EditText
+            android:id="@+id/txtPass"
+            style="@style/EditText"
+            android:drawableLeft="@drawable/password"
+            android:drawablePadding="17dp"
+            android:hint="@string/psw"
+            android:imeOptions="actionDone"
+            android:inputType="textPassword"
+            android:paddingLeft="12dp" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnLogin"
+        style="@style/ButtonOrange"
+        android:layout_marginTop="16dp"
+        android:text="@string/login" />
+
+    <TextView
+        android:id="@+id/tv_forgot_psw"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="18dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="@string/forgot_psw"
+        android:textColor="@drawable/text_selector_gray"
+        android:textSize="12dp" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/or" />
+
+    <LinearLayout
+        android:id="@+id/btnFbSignIn"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="18dp"
+        android:background="@drawable/blue_button_selector"
+        android:clickable="true"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/facebook"
+            android:drawablePadding="20dp"
+            android:fontFamily="sans-serif"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="@string/sign_in_with_facebook"
+            android:textColor="@color/white"
+            android:textSize="14dp" />
+    </LinearLayout>
+
+    <!--<Button
+        android:id="@+id/btnLoginAsGuest"
+        style="@style/Button"
+        android:layout_marginTop="11dp"
+        android:background="@drawable/transparent_white_button_selector"
+        android:text="@string/login_as_guest"
+        android:textAllCaps="false"
+        android:textSize="16dp" />-->
+
+</LinearLayout>
+
+

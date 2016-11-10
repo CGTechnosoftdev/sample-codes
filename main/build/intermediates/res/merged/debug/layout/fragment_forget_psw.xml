@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="34dp"
+    android:paddingRight="34dp">
+
+    <TextView
+        android:id="@+id/tv_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="44dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="@string/enter_email_for_psw"
+        android:textColor="@color/gray_txt"
+        android:textSize="14dp" />
+
+    <EditText
+        android:id="@+id/txtEmail"
+        style="@style/EditText"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/bg_white_color_round"
+        android:drawableLeft="@drawable/email_address"
+        android:drawablePadding="17dp"
+        android:hint="@string/email_address"
+        android:imeOptions="actionDone"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="12dp" />
+
+    <Button
+        android:id="@+id/btnSend"
+        style="@style/ButtonOrange"
+        android:layout_marginTop="17dp"
+        android:text="@string/send" />
+
+</LinearLayout>
+
+

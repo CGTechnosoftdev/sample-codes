@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="colorPrimary">#5181B8</color>
+    <color name="colorPrimaryDark">#406793</color>
+    <color name="colorPrimaryDark2">#406793</color>
+    <color name="colorAccent">#FC3E3A</color>
+    <color name="colorAccentDark">#FC3E3A</color>
+    <color name="transcolorPrimary">#445181B8</color>
+    <color name="material_blue_500">@color/colorAccent</color>
+   <!-- <color name="colorPrimary">#F97B4B</color>
+    <color name="colorPrimaryDark">#DD5D36</color>
+    <color name="colorPrimaryDark2">#9D1805</color>
+    <color name="colorAccent">#40c4ff</color>
+    <color name="colorAccentDark">#3ab1e6</color>
+    <color name="transcolorPrimary">#44FF7751</color>-->
+    <color name="btn_primary_color">@color/colorPrimary</color>
+    <color name="btn_primary_sel_color">@android:color/transparent</color>
+    <color name="btn_primary_text_color">@color/white</color>
+    <color name="btn_primary_text_sel_color">@color/black_text</color>
+
+    <color name="orange">#FF7751</color>.
+    <color name="orange_dark">#FC3E3A</color>
+    <color name="gray">#C8C8C8</color>
+    <color name="commentbggray">#DFDFDF</color>
+    <color name="black_text">#646B7F</color>
+    <color name="black_text_dark">#37474f</color>
+    <color name="hint">#B3B8C6</color>
+    <color name="agree">#75CCFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="cancel">#E8673D</color>
+    <color name="whitedull">#F5F5F5</color>
+    <color name="whitedull2">#D9D9D9</color>
+    <color name="blue">#0072FF</color>
+    <color name="msgboxbg">#8B91A7</color>
+    <color name="calboxbg">#A2A8B8</color>
+    <color name="commentboxbg">#F76F3F</color>
+    <color name="graydull">#E7E7E7</color>
+    <color name="descriptiontext">#626C7E</color>
+    <color name="timetext">#8F99A9</color>
+    <color name="blue_selected">#0063AF</color>
+    <color name="blue_deselected">#009BDB</color>
+    <color name="menu_icon_unselect">#939598</color>
+    <color name="menu_icon_select">@color/colorPrimaryDark2</color>
+    <color name="menu_text_select">#58595B</color>
+    <color name="menu_text_unselect">@color/colorPrimaryDark2</color>
+
+
+    <!-- Bottom Navigation -->
+    <color name="colorBottomNavigationPrimary">#3F51B5</color>
+    <color name="colorBottomNavigationPrimaryDark">#303F9F</color>
+    <color name="colorBottomNavigationAccent">#FF4081</color>
+    <color name="colorBottomNavigationInactive">#747474</color>
+    <color name="colorBottomNavigationActiveColored">#FFFFFF</color>
+    <color name="colorBottomNavigationInactiveColored">#50FFFFFF</color>
+    <color name="colorBottomNavigationNotification">#F63D2B</color>
+</resources>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_color"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/cardTop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@color/white"
+        card_view:cardCornerRadius="@dimen/cardview_radius"
+        card_view:cardElevation="@dimen/list_item_card_elevation"
+        card_view:cardPreventCornerOverlap="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:orientation="vertical">
+
+            <Spinner
+                android:id="@+id/sp_county"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:background="@drawable/spinner_bg"
+                android:spinnerMode="dialog" />
+
+            <!--<Spinner
+                android:id="@+id/sp_city"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/spinner_bg"
+                android:spinnerMode="dialog" />-->
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@color/white"
+        card_view:cardCornerRadius="@dimen/cardview_radius"
+        card_view:cardElevation="@dimen/list_item_card_elevation"
+        card_view:cardPreventCornerOverlap="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp">
+
+            <CheckBox
+                android:id="@+id/chk_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:button="@drawable/check_box_loc_selector"
+                android:gravity="center"
+                android:paddingLeft="8dp"
+                android:text="@string/current_location"
+                android:textColor="@color/black_text"
+                android:textSize="15dp" />
+
+            <SeekBar
+                android:id="@+id/sb_distance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/chk_location"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="6dp"
+                android:layout_toLeftOf="@+id/tv_max_distance"
+                android:max="19"
+                android:padding="@dimen/dp_4"
+                android:progress="0"
+                android:progressTint="@color/colorPrimary"
+                android:thumbTint="@color/colorPrimary" />
+
+            <TextView
+                android:id="@+id/tv_max_distance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_below="@+id/chk_location"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="6dp"
+                android:paddingTop="@dimen/dp_4"
+                android:text="20km"
+                android:textColor="@color/black_light_txt"
+                android:textSize="13dp" />
+
+            <TextView
+                android:id="@+id/tv_distance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/sb_distance"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="6dp"
+                android:text="1km"
+                android:textColor="@color/black_light_txt"
+                android:textSize="13dp" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

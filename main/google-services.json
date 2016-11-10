@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "147327806461",
+    "firebase_url": "https://cgtsocialnetwork-148906.firebaseio.com",
+    "project_id": "cgtsocialnetwork-148906",
+    "storage_bucket": "cgtsocialnetwork-148906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147327806461:android:04ecd235d1e03e60",
+        "android_client_info": {
+          "package_name": "com.cgt.socialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147327806461-7jjsjpb28gf6u68ml7mjke346i6u6qgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cgt.socialnetwork",
+            "certificate_hash": "F1F47BF6D63AB05A0D825771CAC0B79EF9497878"
+          }
+        },
+        {
+          "client_id": "147327806461-fltsm2v3d1ktmm47v41bc4mmqp75i9s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI6qeFwDDaqgKZFnCh4VfOAk1TQE5gh14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147327806461-fltsm2v3d1ktmm47v41bc4mmqp75i9s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

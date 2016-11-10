@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.cgt.socialnetwork.widget.SwipeRevealLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/swipe_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:dragEdge="right"
+    app:mode="same_level">
+
+    <FrameLayout
+        android:id="@+id/delete_layout"
+        android:layout_width="70dp"
+        android:layout_height="90dp"
+        android:background="@android:color/holo_red_dark">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_delete_white" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp">
+
+        <RelativeLayout
+            android:id="@+id/rl_row"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="15dp">
+
+            <ImageView
+                android:id="@+id/img_userImage"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="10dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/avatar_" />
+
+            <TextView
+                android:id="@+id/tv_UserName"
+                style="@style/Heading"
+                android:layout_width="match_parent"
+                android:layout_alignParentTop="true"
+                android:layout_toLeftOf="@+id/tv_UserTime"
+                android:layout_toRightOf="@+id/img_userImage"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:text="Vin Diesel" />
+
+            <TextView
+                android:id="@+id/tv_UserDetail"
+                style="@style/SubHeading"
+                android:layout_width="match_parent"
+                android:layout_below="@+id/tv_UserName"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@+id/img_userImage"
+                android:text="Hugged you" />
+
+            <TextView
+                android:id="@+id/tv_UserTime"
+                style="@style/SubHeading"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:drawableLeft="@drawable/ic_time_clock"
+                android:drawablePadding="5dp"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:text="25 min ago" />
+
+        </RelativeLayout>
+    </FrameLayout>
+
+</com.cgt.socialnetwork.widget.SwipeRevealLayout>
+

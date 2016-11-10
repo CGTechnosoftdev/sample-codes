@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="34dp"
+    android:paddingRight="34dp">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/bg_white_color_round"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/txtName"
+            style="@style/EditText"
+            android:drawableLeft="@drawable/username"
+            android:drawablePadding="17dp"
+            android:hint="@string/full_name"
+            android:imeOptions="actionNext"
+            android:inputType="textCapWords"
+            android:maxLength="45"
+            android:padding="12dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/gray_line" />
+
+        <EditText
+            android:id="@+id/txtEmail"
+            style="@style/EditText"
+            android:drawableLeft="@drawable/email_address"
+            android:drawablePadding="17dp"
+            android:hint="@string/email_address"
+            android:imeOptions="actionNext"
+            android:inputType="textEmailAddress"
+            android:maxLength="45"
+            android:paddingLeft="12dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/gray_line" />
+
+        <EditText
+            android:id="@+id/txtPass"
+            style="@style/EditText"
+            android:drawableLeft="@drawable/password"
+            android:drawablePadding="17dp"
+            android:hint="@string/psw"
+            android:imeOptions="actionNext"
+            android:inputType="textPassword"
+            android:paddingLeft="12dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/gray_line" />
+
+        <EditText
+            android:id="@+id/txtConfirmPass"
+            style="@style/EditText"
+            android:drawableLeft="@drawable/confirm_password"
+            android:drawablePadding="17dp"
+            android:hint="@string/confirm_psw"
+            android:imeOptions="actionDone"
+            android:inputType="textPassword"
+            android:padding="12dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/gray_line" />
+
+        <RadioGroup
+            android:id="@+id/radio_group"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="@android:color/transparent"
+            android:hint="@string/confirm_psw"
+            android:imeOptions="actionDone"
+            android:inputType="textPassword"
+            android:orientation="horizontal"
+            android:padding="12dp">
+
+            <RadioButton
+                android:id="@+id/male"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:fontFamily="sans-serif"
+                android:text="@string/male"
+                android:textColor="@color/gray_txt_input"
+                android:textSize="15dp" />
+
+            <RadioButton
+                android:id="@+id/female"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:fontFamily="sans-serif"
+                android:text="@string/female"
+                android:textColor="@color/gray_txt_input"
+                android:textSize="15dp" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnSignUp"
+        style="@style/ButtonOrange"
+        android:layout_marginTop="17dp"
+        android:text="@string/sign_up" />
+</LinearLayout>
+
+

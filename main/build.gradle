@@ -1,0 +1,103 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+repositories {
+    maven { url 'https://maven.fabric.io/public' }
+}
+
+apply plugin: 'android-apt'
+apply plugin: 'me.tatarka.retrolambda'
+
+android {
+    compileSdkVersion 'Google Inc.:Google APIs:23'
+    buildToolsVersion '24.0.1'
+    useLibrary 'org.apache.http.legacy'
+    compileOptions.encoding = 'windows-1251' // write your encoding here
+    defaultConfig {
+        applicationId "com.cgt.socialnetwork"
+        minSdkVersion 15
+        targetSdkVersion 23
+
+        versionCode 2
+        versionName "1.1"
+
+        // Enabling multidex support.
+        multiDexEnabled true
+
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+
+    }
+
+    buildTypes {
+        release {
+            shrinkResources true
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    dexOptions {
+        incremental true
+        javaMaxHeapSize "4g"
+    }
+
+}
+
+dependencies {
+    compile files('libs/httpmime-4.2.2.jar')
+    compile files('libs/prettytime-3.2.7.Final.jar')
+    compile project(':general')
+    compile project(':volley')
+    compile('com.crashlytics.sdk.android:crashlytics:2.6.1@aar') {
+        transitive = true;
+    }
+
+    provided 'javax.annotation:jsr250-api:1.0'
+    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.android.support:support-v13:23.4.0'
+    compile 'com.android.support:design:23.2.0'
+    compile 'com.android.support:recyclerview-v7:23.2.0'
+    compile 'com.android.support:appcompat-v7:23.2.0'
+    compile 'com.wang.avi:library:1.0.5'
+    compile 'com.google.android.gms:play-services-gcm:8.4.0'
+    compile 'com.google.android.gms:play-services-location:8.4.0'
+    compile 'com.google.android.gms:play-services-base:8.4.0'
+    compile 'org.apache.commons:commons-lang3:3.4'
+    compile 'com.birbit:android-priority-jobqueue:2.0.0-beta1'
+    compile 'net.zetetic:android-database-sqlcipher:3.3.1-1@aar'
+    compile 'com.facebook.android:facebook-android-sdk:4.10.0'
+    compile 'com.squareup.okhttp:okhttp:2.4.0'
+    compile 'com.jakewharton:butterknife:7.0.1'
+    compile 'com.jakewharton.byteunits:byteunits:0.9.1'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'org.greenrobot:eventbus:3.0.0'
+    compile 'com.android.support:multidex:1.0.0'
+    compile 'com.google.code.gson:gson:2.3'
+    compile 'com.google.dagger:dagger:2.0'
+
+    compile 'org.apache.commons:commons-lang3:3.4'
+}
+
+apply plugin: 'com.google.gms.google-services'

@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\dropdown.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\dropdown.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\hug_selected.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\hug_selected.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\hug_deselected.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\hug_deselected.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\checked_loc.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\checked_loc.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\time_clock.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\time_clock.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\send_msg.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\send_msg.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\tab_feed.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\tab_feed.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\edit_profile.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\edit_profile.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\ic_add_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_posting.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\ic_posting.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_done_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\ic_done_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\splash_logo_name.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\splash_logo_name.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\attachment.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\attachment.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\or.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\or.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\email_address.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\email_address.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\powered_by_google_dark.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\tab_notification.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\tab_notification.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\places_ic_search.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_search.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\password.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\password.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_arrow_upward.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\ic_arrow_upward.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_send_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\ic_send_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\powered_by_google_light.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_delete_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\ic_delete_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\background.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\background.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\report.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\report.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_save_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\ic_save_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\remove.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\remove.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\tab_post.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\tab_post.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\unchecked_loc.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\unchecked_loc.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\facebook.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\facebook.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\combo_btn.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\combo_btn.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\comment_deselected.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\comment_deselected.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\search.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\comment_selected.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\comment_selected.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\splash_logo_name_login.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\splash_logo_name_login.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\username.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\username.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\splash_logo.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\splash_logo.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\edit_photo.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\edit_photo.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\back_arrow.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\back_arrow.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\places_ic_clear.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\drawable-xxxhdpi\\places_ic_clear.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_clear_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\ic_clear_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\app_icon.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\location_pin.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\location_pin.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_done_black.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\ic_done_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\confirm_password.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\confirm_password.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_overflow.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\ic_overflow.png"
+    },
+    {
+        "merged": "D:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_remove_white.png",
+        "source": "D:\\Projects\\CGTSocialNetwork\\main\\src\\main\\res\\drawable-xxxhdpi\\ic_remove_white.png"
+    }
+]

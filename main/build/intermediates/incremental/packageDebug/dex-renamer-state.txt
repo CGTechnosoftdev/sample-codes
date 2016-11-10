@@ -1,0 +1,7 @@
+#Thu Nov 10 18:52:51 IST 2016
+base.0=D\:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_18e2643062ae67df16453056ad34168d6e07003f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_22e03de424da290fbf8859dc5660b3e0bdb45b6e\\classes.dex
+base.1=D\:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_22e03de424da290fbf8859dc5660b3e0bdb45b6e
+file.0=D\:\\Projects\\CGTSocialNetwork\\main\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_18e2643062ae67df16453056ad34168d6e07003f\\classes.dex

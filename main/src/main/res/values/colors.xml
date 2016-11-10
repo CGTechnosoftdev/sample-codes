@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#f93f49</color>
+    <color name="colorPrimaryDark">#1d1e25</color>
+    <color name="colorPrimaryDark3">#172b35</color>
+    <color name="colorPrimaryDark2">#152b35</color>
+
+
+    <color name="colorAccent">#152b35</color>
+    <color name="colorAccentDark">#152b35</color>
+    <color name="transcolorPrimary">#443F4150</color>
+
+    <color name="bg_color">#D8DBDA</color>
+    <color name="gray">#C8C8C8</color>
+    <color name="commentbggray">#DFDFDF</color>
+    <color name="black_text">#646B7F</color>
+    <color name="black_text_dark">#37474f</color>
+    <color name="hint">#B3B8C6</color>
+    <color name="agree">#75CCFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="cancel">#E8673D</color>
+    <color name="whitedull">#F5F5F5</color>
+    <color name="whitedull2">#D9D9D9</color>
+    <color name="blue">#0072FF</color>
+    <color name="msgboxbg">#8B91A7</color>
+    <color name="calboxbg">#A2A8B8</color>
+    <color name="commentboxbg">#F76F3F</color>
+    <color name="graydull">#E7E7E7</color>
+    <color name="descriptiontext">#626C7E</color>
+    <color name="timetext">#8F99A9</color>
+    <color name="blue_selected">#0063AF</color>
+    <color name="blue_deselected">#009BDB</color>
+    <color name="menu">#DDDDDD</color>
+    <color name="menu_icon_unselect">#939598</color>
+    <color name="menu_icon_select">@color/colorPrimaryDark</color>
+    <color name="menu_text_select">#58595B</color>
+    <color name="menu_text_unselect">@color/colorPrimaryDark</color>
+    <color name="btn_login_text_color">@color/colorAccent</color>
+    <color name="feedTitle">#616161</color>
+    <color name="feedDes">#616161</color>
+    <color name="userStatus">#616161</color>
+    <color name="feedSubHeading">#616161</color>
+    <color name="gray_line">#d6cccc</color>
+    <color name="gray_txt">#B9B9BB</color>
+    <color name="gray_txt_hint">#bfbfc1</color>
+    <color name="gray_txt_input">#8F8F8F</color>
+    <color name="category_color2">#919CB2</color>
+    <color name="audio_progress">#41bd41</color>
+    <color name="category_color">@color/colorPrimary</color>
+    <color name="black_btn_txt">#3f4150</color>
+    <color name="black_txt">#616161</color>
+    <color name="btn_block">#FF3942</color>
+    <color name="windowBg">#f3f4f4</color>
+    <color name="menu_text">#939393</color>
+    <color name="trans_white">#33FFFFFF</color>
+    <color name="orange_btn">#f93f49</color>
+    <color name="blue_fb">#3b5998</color>
+    <color name="profileEditText">#616161</color>
+    <color name="profilePrivate">#8F8F8F</color>
+    <color name="spinnerColor">#A4A4A4</color>
+    <color name="black_light_txt">#838484</color>
+    <color name="black_txt_desc">#787878</color>
+    <color name="white_dull">#DDDCDC</color>
+
+    <color name="catGroup_bg">#7d8496</color>
+    <color name="catGroupTextDeselect">#DDDCDC</color>
+    <color name="catGroupText">#616161</color>
+    <color name="catText">#616161</color>
+    <color name="black_txt_audio_time">#74757e</color>
+    <color name="profileText">#bfbfc1</color>
+    <color name="elipze_color">@color/colorPrimaryDark2</color>
+    <color name="ellipsize_red">#df0e17</color>
+
+    <color name="color_tab_1">#455C65</color>
+    <color name="color_tab_2">#00886A</color>
+    <color name="color_tab_3">#8B6B62</color>
+    <color name="color_tab_4">#6C4A42</color>
+
+    <array name="scheme_colors">
+        <item>@color/orange</item>
+        <item>@color/orange</item>
+        <item>@color/orange</item>
+        <item>@color/blue</item>
+    </array>
+
+</resources>

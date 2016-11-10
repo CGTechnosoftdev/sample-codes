@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><!--<ProgressBar xmlns:android="http://schemas.android.com/apk/res/android"
+    style="?android:attr/progressBarStyleLarge"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:progressDrawable="@color/black" />-->
+
+<com.wang.avi.AVLoadingIndicatorView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/avloadingIndicatorView"
+    app:indicator="BallSpinFadeLoader"
+    app:indicator_color="@color/orange_dark"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center" />
